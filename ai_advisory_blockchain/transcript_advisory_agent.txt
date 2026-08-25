@@ -1,0 +1,37 @@
+=== Paytm Money -- Portfolio Advisory Agent (MOCK_LLM mode) ===
+
+Investor: INV01 (Conservative)
+  Tickers: ['PAYBOND', 'PAYGOLD', 'PAYRETAIL']
+  Expected Return: 9.20%
+  Volatility (Std Dev): 8.44%
+  STATUS: Recommendation finalized
+  Narrative: For Conservative investor INV01, we recommend an allocation across ['PAYBOND', 'PAYGOLD', 'PAYRETAIL'] with an expected portfolio return of 9.2% and volatility of 8.4%.
+
+Investor: INV02 (Moderate)
+  Tickers: ['PAYRETAIL', 'PAYINFRA', 'PAYGOLD']
+  Expected Return: 11.30%
+  Volatility (Std Dev): 12.57%
+  STATUS: Recommendation finalized
+  Narrative: For Moderate investor INV02, we recommend an allocation across ['PAYRETAIL', 'PAYINFRA', 'PAYGOLD'] with an expected portfolio return of 11.3% and volatility of 12.6%.
+
+Investor: INV03 (Aggressive)
+  Tickers: ['PAYTECH', 'PAYFIN', 'PAYINFRA']
+  Expected Return: 15.00%
+  Volatility (Std Dev): 20.58%
+  STATUS: ESCALATED_TO_HUMAN_ADVISOR
+  Narrative: For Aggressive investor INV03, we recommend an allocation across ['PAYTECH', 'PAYFIN', 'PAYINFRA'] with an expected portfolio return of 15.0% and volatility of 20.6%.
+
+Investor: INV04 (Moderate)
+  Tickers: ['PAYRETAIL', 'PAYINFRA', 'PAYGOLD']
+  Expected Return: 11.30%
+  Volatility (Std Dev): 12.57%
+  STATUS: Recommendation finalized
+  Narrative: For Moderate investor INV04, we recommend an allocation across ['PAYRETAIL', 'PAYINFRA', 'PAYGOLD'] with an expected portfolio return of 11.3% and volatility of 12.6%.
+
+Investor: INV05 (Aggressive)
+  Tickers: ['PAYTECH', 'PAYFIN', 'PAYINFRA']
+  Expected Return: 15.00%
+  Volatility (Std Dev): 20.58%
+  STATUS: ESCALATED_TO_HUMAN_ADVISOR
+  Narrative: For Aggressive investor INV05, we recommend an allocation across ['PAYTECH', 'PAYFIN', 'PAYINFRA'] with an expected portfolio return of 15.0% and volatility of 20.6%.
+

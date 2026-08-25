@@ -1,0 +1,31 @@
+=== Paytm Postpaid (illustrative BNPL line) -- DCF Valuation ===
+
+Cost of Equity (CAPM, beta=1.35): 15.10%
+WACC (base case): 12.60%
+Terminal growth rate: 5.00%
+Cushion (WACC - terminal growth): 7.60 percentage points
+
+5-Year FCFF Projection (INR):
+  Year 1: EBIT=177,000,000  FCFF=115,050,000
+  Year 2: EBIT=203,550,000  FCFF=132,307,500
+  Year 3: EBIT=227,976,000  FCFF=148,184,400
+  Year 4: EBIT=248,493,840  FCFF=161,520,996
+  Year 5: EBIT=265,888,409  FCFF=172,827,466
+
+Terminal Value: INR 2,389,319,803
+PV of 5-year FCFF: INR 506,354,663
+PV of Terminal Value: INR 1,320,318,645
+Enterprise Value (DCF, base case): INR 1,826,673,308
+
+=== 3x3 Sensitivity Table (Enterprise Value, INR) ===
+WACC \ Growth              4.0%           5.0%           6.0%
+          11.6%   1,887,369,247 2,109,849,381 2,411,857,713
+          12.6%   1,661,947,107 1,826,673,308 2,041,354,383
+          13.6%   1,483,672,853 1,609,532,074 1,768,533,947
+
+=== EV/EBITDA Cross-Check ===
+Base-year EBITDA: INR 170,000,000
+EV/EBITDA method (8.0x multiple): INR 1,360,000,000
+DCF method (base case): INR 1,826,673,308
+
+Comment: The DCF valuation is 34.3% higher than the simple EV/EBITDA cross-check. This gap reflects the DCF's sensitivity to the chosen growth trajectory and terminal assumptions, versus the EV/EBITDA method's reliance on a single sector-average multiple that ignores this specific business's above-average growth profile.

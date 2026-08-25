@@ -1,0 +1,8 @@
+=== Paytm Money -- Multi-Agent Debate Demo (MOCK_LLM mode) ===
+Ticker under debate: PAYTECH
+
+BULL on PAYTECH: With an expected return of 19.0% against a beta of 1.55, this offers attractive risk-adjusted upside. The higher beta means PAYTECH is well positioned to outperform when the market is strong, rewarding investors who can tolerate the swings.
+
+BEAR on PAYTECH: A standard deviation of 34.0% signals real volatility risk -- this stock's returns can swing sharply from year to year. Combined with a beta of 1.55, PAYTECH is likely to fall hard in a market downturn, which is a serious concern for capital preservation.
+
+SYNTHESIS on PAYTECH: The bull case highlights an expected return of 19.0% driven by strong market-linked upside, while the bear case warns that 34.0% volatility makes this a genuinely risky holding. On balance, PAYTECH suits investors with a higher risk tolerance and a longer time horizon, rather than conservative or short-term investors.
